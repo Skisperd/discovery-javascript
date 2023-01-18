@@ -1,2 +1,2 @@
-# cypress_discovery
-cypress_discovery
+# javascript_discovery
+javascript_discovery
